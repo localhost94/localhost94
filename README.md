@@ -1,16 +1,30 @@
-## Hi there 👋
+# Arya Kusuma
 
-<!--
-**localhost94/localhost94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Building at scale.**
 
-Here are some ideas to get you started:
+Software Technical Lead | Cloud-Native Architecture & DevOps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Website](https://img.shields.io/badge/kusuma.dev-6366f1?style=for-the-badge&logo=cloudflare&logoColor=white)](https://kusuma.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aryakusuma)
+
+---
+
+### About Me
+
+- **Currently**: Software Technical Lead at Badr Interactive
+- **Expertise**: Cloud Computing, DevOps, Kubernetes, AWS/GCP
+- **Website**: [kusuma.dev](https://kusuma.dev) — portfolio & blog
+- **Blog**: Articles on Cloud, DevOps, and Software Engineering
+- **Location**: Depok, West Java, Indonesia
+
+### Tech Stack
+
+**Cloud** — AWS (EC2, RDS, S3), GCP (GKE, GCE)
+**DevOps** — Docker, Kubernetes, Jenkins, GitLab CI/CD
+**Backend** — Node.js, Express, Laravel, PHP
+**Frontend** — React, Next.js
+**Monitoring** — Prometheus, Grafana, k6.io
+
+---
+
+*Building systems that impact millions of users.*
