@@ -1,12 +1,17 @@
+# Arya Kusuma
+
+<p align="center">
+  <sub>Software Technical Lead · Cloud-Native · DevOps</sub>
+  <br/>
+  <sub><i>"Building at scale."</i></sub>
+</p>
+
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=6366f1:22d3ee&height=200&section=header&text=Building%20at%20scale.&fontSize=40&fontColor=ffffff&fontAlignY=35">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1:22d3ee&height=200&section=header&text=Building%20at%20scale.&fontSize=40&fontColor=ffffff&fontAlignY=35" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=6366f1:22d3ee&height=150&section=header&text=Building%20at%20scale.&fontSize=30&fontColor=ffffff&fontAlignY=35">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=6366f1:22d3ee&height=150&section=header&text=Building%20at%20scale.&fontSize=30&fontColor=ffffff&fontAlignY=35" width="100%">
   </picture>
 </div>
-
-<h1 align="center">Arya Kusuma</h1>
-<h3 align="center">Software Technical Lead · Cloud-Native · DevOps</h3>
 
 <p align="center">
   <a href="https://kusuma.dev"><img src="https://img.shields.io/badge/kusuma.dev-6366f1?style=for-the-badge&logo=icloud&logoColor=white"></a>
