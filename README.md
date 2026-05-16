@@ -162,7 +162,6 @@ daily_tools:
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [🏠 kusuma.dev](https://kusuma.dev) | Personal portfolio & blog — bilingual, SEO, Cloudflare Pages | ![Astro](https://img.shields.io/badge/-Astro-FF5D01?logo=astro&logoColor=white) ![Cloudflare](https://img.shields.io/badge/-Pages-F38020?logo=cloudflare&logoColor=white) |
-| [🤖 Hermes Agent](https://hermes.kusuma.dev) | AI agent platform — multi-provider, multi-platform messaging | ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) |
 | [📊 SMILE](https://github.com/localhost94) | High-scale platform — microservices, observability, HA | ![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white) |
 
 <br/>
